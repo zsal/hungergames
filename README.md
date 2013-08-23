@@ -11,7 +11,7 @@ Strategy
  public good freeloader
  non-punishing, non-random
  educated 50 - 50 split that adjusts later based on number of hunters in the game
- thinks that reputation is important so tries its best to maintain it while still survining
+ thinks that reputation is important so tries its best to maintain it while still surviving
 
 
 
