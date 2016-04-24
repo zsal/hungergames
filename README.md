@@ -4,6 +4,8 @@ Hunger Games README
 @playerName: Zigo
 @author: Zane Salem
 
+***RESULTS***: https://brilliant.org/competitions/hunger-games/results/
+ (my agent was not a survivor but I found the results and other agent code quite insightful)
 
 Strategy
 -------------
