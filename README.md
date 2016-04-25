@@ -7,6 +7,8 @@ Hunger Games README
 ***RESULTS***: https://brilliant.org/competitions/hunger-games/results/
  (my agent was not a survivor but I found the results and other agent code quite insightful)
 
+***NOTE***: haven't reviewed this in a long time but upon a quick glance it appears I totally misunderstood the payoff matrix of this game. By attempting to hunt with slackers I gave myself negative payoff. Instead of hiding this past in shame, I'll keep this as a reminder that teenage Zane (as well as 20s Zane) can make and learn from mistakes.   
+
 Strategy
 -------------
  slack with the hunters, hunt with the slackers
@@ -14,7 +16,6 @@ Strategy
  non-punishing, non-random
  educated 50 - 50 split that adjusts later based on number of hunters in the game
  thinks that reputation is important so tries its best to maintain it while still surviving
-
 
 
 Proof of Concept
